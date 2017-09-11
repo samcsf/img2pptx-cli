@@ -8,12 +8,15 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sam Fu",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.11.0",
     "pptxgenjs": "^1.7.0"
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/samcsf/img2pptx-cli.git"
+	}
 }
