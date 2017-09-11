@@ -7,9 +7,9 @@ $ npm install -g img2pptx
 ```
 
 ### Usage
-- -f, --folder [path]','Image folder path')  
-- -t, --target [path]','PPTX output path')  
-- -n, --name-gen','Generate file name to slide') 
+- -f, --folder [path] , Image folder path  
+- -t, --target [path] , PPTX output path  
+- -n, --name-gen      , Generate file name to slide 
 
 Example: 
 ```
