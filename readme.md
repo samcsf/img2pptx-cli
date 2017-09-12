@@ -39,7 +39,7 @@ ___________________________________
 ```
 
 ### Version
-0.1.0
+0.1.2
 
 ### License
 [MIT](http://opensource.org/licenses/MIT)

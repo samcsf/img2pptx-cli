@@ -10,7 +10,7 @@ const DEFAULT_CONFIG = {
 }
 
 program
-    .version('0.1.0')
+    .version('0.1.2')
     .option('-f, --folder [path]','Image folder path')
     .option('-t, --target [path]','PPTX output path')
     .option('-c, --config [path]','Config to override, testing')
