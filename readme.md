@@ -3,7 +3,7 @@ A simple CLI for creating pptx from images folder. Using [PptxGenJS](https://git
 
 ### Installation
 ```bash
-$ npm install -g img2pptx
+$ npm install -g img2pptx-cli
 ```
 
 ### Usage
